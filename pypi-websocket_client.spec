@@ -4,7 +4,7 @@
 #
 Name     : pypi-websocket_client
 Version  : 1.4.1
-Release  : 96
+Release  : 97
 URL      : https://files.pythonhosted.org/packages/99/11/01fe7ebcb7545a1990c53c11f31230afe1388b0b34256e3fd20e49482245/websocket-client-1.4.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/99/11/01fe7ebcb7545a1990c53c11f31230afe1388b0b34256e3fd20e49482245/websocket-client-1.4.1.tar.gz
 Summary  : WebSocket client for Python with low level API options
