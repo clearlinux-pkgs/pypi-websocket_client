@@ -1,5 +1,5 @@
 PKG_NAME := pypi-websocket_client
-URL = https://files.pythonhosted.org/packages/20/07/2a94288afc0f6c9434d6709c5320ee21eaedb2f463ede25ed9cf6feff330/websocket-client-1.7.0.tar.gz
+URL = https://files.pythonhosted.org/packages/e6/30/fba0d96b4b5fbf5948ed3f4681f7da2f9f64512e1d303f94b4cc174c24a5/websocket_client-1.8.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
